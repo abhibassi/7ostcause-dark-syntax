@@ -1,0 +1,16 @@
+{
+  "name": "7ostcause-dark-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "High-contrast colors on subtle background for dark look and feel.",
+  "keywords": [
+    "dark",
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/abhibassi/7ostcause-dark-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
